@@ -71,9 +71,3 @@ YouTube: [Zahabia Ahmed](https://www.youtube.com/@ZahabiaAhmed)
 
 ## 📜 License
 This project is licensed under the MIT License.
-```
-
----
-
-
->>>>>>> 364b1ae33911dbaa50e102e011e25d2f461ab95f
