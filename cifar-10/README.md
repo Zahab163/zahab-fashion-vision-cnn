@@ -4,6 +4,9 @@ This folder contains experiments using Convolutional Neural Networks (CNNs) to c
 
 Dataset
 
+**Note** : there are three files one is from tensorflow
+
+
 60,000 color images (32x32 pixels)
 
 10 classes: airplane, automobile, bird, cat, deer, dog, frog, horse, ship, truck
