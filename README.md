@@ -1,1 +1,1 @@
-# Zahab Fashion Vision CNN 
+"# CIFAR-10 Project" 
