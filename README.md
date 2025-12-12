@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-"# CIFAR-10 Project" 
-||||||| ac4952d
-# Zahab Fashion Vision CNN 
-=======
+
 
 # 👗 Zahab Fashion Vision CNN
 
